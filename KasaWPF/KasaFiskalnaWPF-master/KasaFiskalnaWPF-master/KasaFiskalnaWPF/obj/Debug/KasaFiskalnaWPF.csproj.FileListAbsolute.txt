@@ -1,0 +1,12 @@
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\bin\Debug\KasaFiskalnaWPF.exe.config
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\bin\Debug\KasaFiskalnaWPF.exe
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\bin\Debug\KasaFiskalnaWPF.pdb
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\MainWindow.baml
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\MainWindow.g.cs
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\App.g.cs
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\KasaFiskalnaWPF_MarkupCompile.cache
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\KasaFiskalnaWPF.g.resources
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\KasaFiskalnaWPF.Properties.Resources.resources
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\KasaFiskalnaWPF.csproj.GenerateResource.Cache
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\KasaFiskalnaWPF.exe
+G:\PROGRAMOWANIE OBIEKTOWE\Programowanie Obiektowe\KasaFiskalnaWPF-master\KasaFiskalnaWPF-master\KasaFiskalnaWPF\obj\Debug\KasaFiskalnaWPF.pdb

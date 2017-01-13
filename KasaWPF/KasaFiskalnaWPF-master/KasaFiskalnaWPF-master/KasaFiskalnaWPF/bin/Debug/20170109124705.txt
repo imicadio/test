@@ -1,0 +1,3 @@
+Zawartość koszyka:
+[0] Sok, 7 * 12 = 84
+Suma: 84

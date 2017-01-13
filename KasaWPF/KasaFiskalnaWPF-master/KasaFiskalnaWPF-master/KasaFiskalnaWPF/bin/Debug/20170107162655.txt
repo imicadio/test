@@ -1,0 +1,4 @@
+Zawartość koszyka:
+[0] Sok, 3 * 1,23 = 3,69
+[1] Chleb, 1 * 2 = 2
+Suma: 5,69
