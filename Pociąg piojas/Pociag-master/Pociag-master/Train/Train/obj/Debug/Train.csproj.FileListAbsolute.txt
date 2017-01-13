@@ -1,0 +1,52 @@
+D:\Karol\Train\Train\bin\Debug\Train.exe.config
+D:\Karol\Train\Train\obj\Debug\Train.csprojResolveAssemblyReference.cache
+D:\Karol\Train\Train\obj\Debug\MainWindow.baml
+D:\Karol\Train\Train\obj\Debug\MainWindow.g.cs
+D:\Karol\Train\Train\obj\Debug\App.g.cs
+D:\Karol\Train\Train\obj\Debug\Train_MarkupCompile.cache
+D:\Karol\Train\Train\obj\Debug\Train.g.resources
+D:\Karol\Train\Train\obj\Debug\Train.Properties.Resources.resources
+D:\Karol\Train\Train\obj\Debug\Train.csproj.GenerateResource.Cache
+D:\Karol\Train\Train\bin\Debug\Train.exe
+D:\Karol\Train\Train\bin\Debug\Train.pdb
+D:\Karol\Train\Train\obj\Debug\Train.exe
+D:\Karol\Train\Train\obj\Debug\Train.pdb
+D:\Pobrane\Train\Train\Train\bin\Debug\Train.exe.config
+D:\Pobrane\Train\Train\Train\obj\Debug\Train.exe
+D:\Pobrane\Train\Train\Train\obj\Debug\Train.pdb
+D:\Pobrane\Train\Train\Train\bin\Debug\Train.exe
+D:\Pobrane\Train\Train\Train\bin\Debug\Train.pdb
+D:\Pobrane\Train\Train\Train\obj\Debug\Train.csprojResolveAssemblyReference.cache
+D:\Pobrane\Train\Train\Train\obj\Debug\MainWindow.baml
+D:\Pobrane\Train\Train\Train\obj\Debug\MainWindow.g.cs
+D:\Pobrane\Train\Train\Train\obj\Debug\App.g.cs
+D:\Pobrane\Train\Train\Train\obj\Debug\Train_MarkupCompile.cache
+D:\Pobrane\Train\Train\Train\obj\Debug\Train.g.resources
+D:\Pobrane\Train\Train\Train\obj\Debug\Train.Properties.Resources.resources
+D:\Pobrane\Train\Train\Train\obj\Debug\Train.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\bin\Debug\Train.exe.config
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\bin\Debug\Train.exe
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\bin\Debug\Train.pdb
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\Train.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\MainWindow.baml
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\MainWindow.g.cs
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\App.g.cs
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\Train_MarkupCompile.cache
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\Train.g.resources
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\Train.Properties.Resources.resources
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\Train.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\Train.exe
+C:\Users\Piotrek\Downloads\Pociag-master\Train\Train\obj\Debug\Train.pdb
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\bin\Debug\Train.exe.config
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\Train.exe
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\Train.pdb
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\bin\Debug\Train.exe
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\bin\Debug\Train.pdb
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\Train.csprojResolveAssemblyReference.cache
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\MainWindow.baml
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\MainWindow.g.cs
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\App.g.cs
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\Train_MarkupCompile.cache
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\Train.g.resources
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\Train.Properties.Resources.resources
+E:\Programowanie Obiektowe\Pociag-master\Pociag-master\Train\Train\obj\Debug\Train.csproj.GenerateResource.Cache

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Train.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,-8,1">
+        <Button x:Name="DLok" Content="Dodaj Lokomotywe" HorizontalAlignment="Left" Margin="23,28,0,0" VerticalAlignment="Top" Width="132" Click="DLok_Click" Height="23"/>
+        <Button x:Name="DWag" Content="Dodaj wagon" HorizontalAlignment="Left" Margin="23,67,0,0" VerticalAlignment="Top" Width="132" Height="26" Click="DWag_Click"/>
+        <Button x:Name="SPop" Content="Sprawdz poprawnosc" HorizontalAlignment="Left" Margin="23,109,0,0" VerticalAlignment="Top" Width="148" Height="24" Click="SPop_Click"/>
+        <Label x:Name="LMasa" Content="Masa" HorizontalAlignment="Left" Margin="272,28,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LModel" Content="Model" HorizontalAlignment="Left" Margin="272,59,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LTyp" Content="Typ" HorizontalAlignment="Left" Margin="272,90,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.448,-0.654"/>
+        <Label x:Name="LRodz" Content="Rodzaj / ladunek" HorizontalAlignment="Left" Margin="272,143,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="Typ" HorizontalAlignment="Left" Margin="347,94,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Osobowy" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Towarowy" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <TextBox x:Name="TModel" HorizontalAlignment="Left" Height="23" Margin="347,61,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TMasa" HorizontalAlignment="Left" Height="23" Margin="347,28,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Dodaj" Content="Dodaj" HorizontalAlignment="Left" Margin="386,229,0,0" VerticalAlignment="Top" Width="75" Click="Dodaj_Click"/>
+        <TextBox x:Name="TRodzLad" HorizontalAlignment="Left" Height="23" Margin="376,145,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="TZaw" HorizontalAlignment="Left" Margin="23,155,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="155" Width="230"/>
+        <TextBlock x:Name="Poprawnosc" HorizontalAlignment="Left" Margin="189,113,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
