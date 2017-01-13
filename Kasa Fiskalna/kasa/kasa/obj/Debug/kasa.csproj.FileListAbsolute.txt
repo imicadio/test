@@ -1,0 +1,39 @@
+E:\Programowanie Obiektowe\kasa\kasa\bin\Debug\kasa.exe.config
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.csprojResolveAssemblyReference.cache
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\MainWindow.baml
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\MainWindow.g.cs
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\App.g.cs
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa_MarkupCompile.cache
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.g.resources
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.Properties.Resources.resources
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.csproj.GenerateResource.Cache
+E:\Programowanie Obiektowe\kasa\kasa\bin\Debug\kasa.exe
+E:\Programowanie Obiektowe\kasa\kasa\bin\Debug\kasa.pdb
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.exe
+E:\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.pdb
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\bin\Debug\kasa.exe.config
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.exe
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.pdb
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\MainWindow.baml
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\MainWindow.g.cs
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\App.g.cs
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa_MarkupCompile.cache
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.g.resources
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.Properties.Resources.resources
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\obj\Debug\kasa.csproj.GenerateResource.Cache
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\bin\Debug\kasa.exe
+C:\Users\xxx\Desktop\Programowanie Obiektowe\Programowanie Obiektowe\kasa\kasa\bin\Debug\kasa.pdb
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\bin\Debug\kasa.exe.config
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\kasa.exe
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\kasa.pdb
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\bin\Debug\kasa.exe
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\bin\Debug\kasa.pdb
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\kasa.csprojResolveAssemblyReference.cache
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\MainWindow.baml
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\MainWindow.g.cs
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\App.g.cs
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\kasa_MarkupCompile.cache
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\kasa.g.resources
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\kasa.Properties.Resources.resources
+G:\PROGRAMOWANIE OBIEKTOWE\kasa\kasa\obj\Debug\kasa.csproj.GenerateResource.Cache

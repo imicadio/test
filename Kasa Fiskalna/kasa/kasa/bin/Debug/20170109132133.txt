@@ -1,0 +1,3 @@
+Zawartość koszyka: 
+[0]Nazwa2 * 1 = 2
+Suma: 2
