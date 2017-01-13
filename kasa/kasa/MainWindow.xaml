@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="kasa.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <WrapPanel HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" RenderTransformOrigin="0.56,0.6">
+            <Button x:Name="Dodaj" Content="Dodaj" Width="71" Click="Dodaj_Click" d:IsLocked="True"/>
+            <Button x:Name="Skopiuj" Content="Skopiuj Ostatni" Width="92" Click="Skopiuj_Click" d:IsLocked="True"/>
+            <Button x:Name="Skasuj" Content="Skasuj" Width="69" Click="Skasuj_Click"/>
+            <Button x:Name="Wydrukuj" Content="Wydrukuj" Width="81" Click="Wydrukuj_Click"/>
+            <Button x:Name="Wyczysc" Content="Wyczyść Koszyk" Height="100" Width="94" Click="Wyczysc_Click"/>
+            <Button x:Name="Wyjscie" Content="Wyjscie" Width="90" Click="Wyjscie_Click"/>
+        </WrapPanel>
+        <Grid x:Name="gridDodaj" HorizontalAlignment="Left" Height="157" Margin="5,137,0,0" VerticalAlignment="Top" Width="247" d:IsHidden="True" d:IsLocked="True">
+            <Label Content="Nazwa" HorizontalAlignment="Left" Margin="4,19,0,0" VerticalAlignment="Top" Width="96"/>
+            <Label Content="Cena Jednostkowa" HorizontalAlignment="Left" Margin="4,50,0,0" VerticalAlignment="Top" Width="129"/>
+            <Label Content="Ilość/Waga" HorizontalAlignment="Left" Margin="8,81,0,0" VerticalAlignment="Top" Width="92"/>
+            <Button x:Name="Save" Content="Zapisz" HorizontalAlignment="Left" Margin="121,125,0,0" VerticalAlignment="Top" Width="75" Click="Save_Click"/>
+            <TextBox x:Name="textNazwa" HorizontalAlignment="Left" Height="23" Margin="121,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="textCena" HorizontalAlignment="Left" Height="23" Margin="121,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="textWaga" HorizontalAlignment="Left" Height="23" Margin="121,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        </Grid>
+        <TextBox x:Name="teksty" HorizontalAlignment="Left" Height="173" Margin="257,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245" d:IsLocked="True"/>
+        <Grid x:Name="usuun" HorizontalAlignment="Left" Height="173" Margin="10,137,0,0" VerticalAlignment="Top" Width="242">
+            <Button Content="Skasuj" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="77,118,0,0" Click="Button_Click"/>
+            <TextBox x:Name="NrPozycji" HorizontalAlignment="Left" Height="23" Margin="56,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Label Content="Nr. Pozycji" HorizontalAlignment="Left" Margin="77,32,0,0" VerticalAlignment="Top" Width="81"/>
+        </Grid>
+    </Grid>
+</Window>
