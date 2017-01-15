@@ -1,0 +1,6 @@
+Imie Nazwisko: Mariusz Kaniecki, Specjalnosc: Okulista
+Oczekujacy pacjenci: 
+Imie Nazwisko: Damian Jacyna
+Wiek: 20
+Choroba: Slepota
+###############

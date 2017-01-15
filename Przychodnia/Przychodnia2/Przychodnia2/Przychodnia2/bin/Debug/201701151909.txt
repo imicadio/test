@@ -1,0 +1,9 @@
+
+Imie Nazwisko: Michal Jeszczko
+Wiek: 20
+Choroba: slepota
+###############
+Imie Nazwisko: Damian Jacyna
+Wiek: 20
+Choroba: Slepota
+###############
