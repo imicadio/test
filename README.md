@@ -4,6 +4,8 @@ http://forum.pasja-informatyki.pl/30804/c%23-zapis-tekstu-w-pliku-txt-w-nowej-li
 
 
 public void GenerujRaport()
+
+
         {
             //string nazwa = "Raport" + DateTime.Now.ToString("ddMMyyyyHHmm") + ".txt";
             string nazwa = DateTime.Now.ToString("yyyyMMddHHmm") + ".txt";
