@@ -15,3 +15,16 @@ public void GenerujRaport()
                 sw.Write(Oczekujacy());
             }
         }
+        
+        
+        
+        
+        
+        COMBOBOX
+        
+            <ComboBox x:Name="Nazwa" HorizontalAlignment="Left" Margin="89,25,0,0" VerticalAlignment="Top" Width="120">
+                <ComboBoxItem Content="Mleko" HorizontalAlignment="Left" Width="118"/>
+                <ComboBoxItem Content="Sok" HorizontalAlignment="Left" Width="118"/>
+                <ComboBoxItem Content="Chleb" HorizontalAlignment="Left" Width="118"/>
+                <ComboBoxItem Content="Jabłko" HorizontalAlignment="Left" Width="118"/>
+            </ComboBox>
